@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apmv --group-directories-first;echo -e
+ls -apmv --group-directories-first
