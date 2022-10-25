@@ -1,1 +1,1 @@
-# SSH CONFIG
+readme file for SSH directory
